@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saexoowoz.chrisma.es/sitemap.xml
